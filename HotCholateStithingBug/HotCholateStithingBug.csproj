@@ -11,7 +11,7 @@
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />
 		<PackageReference Include="HotChocolate.AspNetCore.Subscriptions" Version="10.4.3" />
 		<PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
-		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.4" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
 		<PackageReference Include="Microsoft.AspNetCore.Authorization" Version="3.1.4" />
 		<PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
 		<PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="3.1.4" />
